@@ -1,3 +1,11 @@
+    **Warning: This project is discontinued and no longer supported.**
+
+    It was built for a legacy Python 2 CGI, Apache ``suEXEC``, and ejabberd
+    administration setup. That deployment stack and the interfaces used by
+    this script are no longer readily available in their original form. This
+    repository is preserved for historical reference; no compatibility
+    updates or fixes are planned.
+
 This CGI script enables users that have authentificated with an SSL client
 certificate, to create an XMPP account and to reset their password at ejabberd.
 
